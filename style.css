@@ -93,3 +93,12 @@ main .left-sec{
     margin-bottom: 20px;
 }
 
+.left-sec button{
+    padding: 15px 45px;
+    text-align:center ;
+    font-size: 14px;
+    color: #fff;
+    border: none;
+    background-image: linear-gradient(to right, #649bff,#0070fa,#649bff);
+    border-radius: 10px;
+}
